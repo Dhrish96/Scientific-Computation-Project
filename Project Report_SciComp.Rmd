@@ -135,6 +135,14 @@ The Book Recommender project lays the groundwork for further advancements that w
 
 7. [GitHUb Link] (https://github.com/Dhrish96/Scientific-Computation-Project/tree/main)
 
+### **IMAGES OF THE APP**
+
+1. [Initial Screenshot] (https://github.com/Dhrish96/Scientific-Computation-Project/blob/main/BookRApp%201-Initial.png) 
+
+2. [Example Screenshot] (https://github.com/Dhrish96/Scientific-Computation-Project/blob/main/Example%20Screenshot.png)
+
+3. [Message Displayed Screeshot] (https://github.com/Dhrish96/Scientific-Computation-Project/blob/main/Message%20Displayed%20Screenshot.png)
+
 
 ### **CODE**
 
