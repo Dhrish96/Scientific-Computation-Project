@@ -133,6 +133,8 @@ The Book Recommender project lays the groundwork for further advancements that w
 
 6. [Font Famliy] (https://developer.mozilla.org/en-US/docs/Web/CSS/font-family)
 
+7. [GitHUb Link] (https://github.com/Dhrish96/Scientific-Computation-Project/tree/main)
+
 
 ### **CODE**
 
